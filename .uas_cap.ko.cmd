@@ -1,1 +1,0 @@
-cmd_/home/pooja/2019h1400098G/uas_cap.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-3.13.0-170-generic/scripts/module-common.lds --build-id  -o /home/pooja/2019h1400098G/uas_cap.ko /home/pooja/2019h1400098G/uas_cap.o /home/pooja/2019h1400098G/uas_cap.mod.o
